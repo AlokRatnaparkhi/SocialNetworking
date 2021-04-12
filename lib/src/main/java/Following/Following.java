@@ -14,7 +14,7 @@ public class Following {
 	
 	/**@Author: Alok Ratnaparkhi
 	 * @MethodName: follow
-	 * @Description: Simple service to add target user to the following list of given user
+	 * @Description: Simple service to add target user to the given user's following list
 	 * @InputParam: follower: Name of the user who is going to follow, following: Name of the user to be followed 
 	 * @OutputParam: List: List of posts on the given user's wall
 	 * @Date: 04/11/2021
